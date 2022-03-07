@@ -1,1 +1,11 @@
-
+  private_gsheets_url = "https://docs.google.com/spreadsheets/d/1IXe_43DiORo36E9D7OgUiCQQD9JeYOtIl0HimoStOyA/edit#gid=0"
+  "type": "service_account",
+  "project_id": "pyleave",
+  "private_key_id": "d6c9a440e0fd53d9d2ed580ceb62b5509e2af3ce",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCLcHyrIvP7j1sh\n3KtfLoPnzAk1l6HsP2DQx/zTBxK/QQ/afP25Zh61C5wWffAHwVcYo6aNpwATEUI2\nJN1LE2AwUBqMHguRI1l8Lui8OBQ3bLSKnuR4TOcXsj1C9i9aeDuizckehPU4xCGS\njDTAp3RSfFF17OOXtziif5JIT9LdV1fG7LtIhjGIdORGYzsdLaEZzm+2G+8aZIvS\nQcZNLcfWWpnU8oMW8ZGbof076l5W0OJ/EWkQ5HXEP8lmOp1S1G3L7B8UO+oGPWuC\nvIV5Dr334pKHhTU99pkq/QmoDd+FAzMw4OHZkH9urQIn27OMt0UZHr//nqpy2MxA\n1lpyg9ohAgMBAAECggEAAhcZgKg+ujiRKr4H10lXeAVROwYu9XS9bbZzFge/B8fA\n0NXlqMk82xpq3dRyoW8hcDCzKbWalO6XN0AQuCl4xuigfpVht4HX5iUUNI7Dpia2\nmHW0Ijsxjfj28vbFSXN6yLXnK/0IFFsuT1J+OkgYVeHgB7xEF3gLPOEG2ezREfkm\n9aNiUG8uVYXbFb4jV23YujOtfuuDVg927nuqOFzYBwMaepd5QeJjMMSIHHnx1dAt\n2GUTZ9q7LnvYV0xdSpHotT3Xx9f/YYPwx7HRfTaL6/wq22NAv0J+oukAIZKmHGEG\niT8toUDX5k1oGyCEveTrs2062FxvCFM4kn5w4N1ZNQKBgQDDnLBTNLzzROpf3AKT\nmuUpTFladSvQH9fT7fT0v08W9j21Q/8HWXWJNtcZSvHcQ5EG8KWlsytrK22TjqnL\n3ac3biXzOXCKlWJaC6ucgE9pYLQw/4UM/6gXrNPPrhh3yH6RdrCBMHE6I8FrJBbp\nvJHKYi4plVeu+hjz4GU4KeFxfQKBgQC2fHJnIC/Mk0XppcwZxz6tVurWFJ1zJjSk\ny81MMbc9zQjaIrGjjzGHwZEjTdT3UDM+RqElxpJFPK1A25Kpj/bfrv9MUEmsvlEZ\nmEO9pEmvnL0cydWEVYW2C+zkGHXpPQO7INL4KdW5msCTCDWnjC3WLNl0iZrPD9ex\niZa2dBesdQKBgQCdf+v5Et2Qgky0IlFwx6b8OZ04WF+OlBUTbuVsqxzjQCEvcjBF\nmqIoeR94Hf/fegerrtexMzIieDUiOhw9KZsZ5nZoADe9Xcpy9jKXMDjAgDyVtydJ\n8A9IAMAK2AKbb7N5LDexzW9dgKybt9M7H7nDWooQsU6IdJbixiq5rf73gQKBgQCV\n1/5Au+dD/rJrtt6vVDIdN7/BZlAbW4XixA6hwDkNIC1ioRZojY5IQSOib6iuI0bQ\nnkJ4uGMnQzmohiQZ48L9zb6ItWyp0eTaNXN6Z0qyTuvilcEj1u3inEw6x/MaQCWu\nJLfXWtLKg04Z7aXRHIQO1+j/jnZ2DDY67BW7X/yIeQKBgHU+i71UMOgoDEpfc2oZ\nwjNIp+JuErW1Pu3/mRQGUFXoJ9gGRd9rNICAEd7np2HMoeHMJtof57mAGC1Svsvo\ndi2pW2vukL397GTGjMxhNdsiizYRgqczi5MmfsAKLO0csJy3nBC9/NiaANFDFjen\nJszJf8ET7z4Qh2xLoSZ82dvH\n-----END PRIVATE KEY-----\n",
+  "client_email": "pythonforout@pyleave.iam.gserviceaccount.com",
+  "client_id": "113516245183964689180",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pythonforout%40pyleave.iam.gserviceaccount.com"
