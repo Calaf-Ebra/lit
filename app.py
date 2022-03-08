@@ -1,9 +1,5 @@
-import streamlit as st
 option = st.selectbox(
      'How would you like to be contacted?',
-     ('Email', 'Home phone', 'Mobile phone','GGG'))
-
-d=int(input("hhhhh "))
-
+     ('Email', 'Home phone', 'Mobile phone'))
 
 st.write('You selected:', option)
