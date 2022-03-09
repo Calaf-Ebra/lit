@@ -6,7 +6,7 @@ a='cass'
 
 number = st.number_input('Number of Items')
 
-options = st.multiselect(
+option = st.multiselect(
      'Product Name',
      ['Holalnd',a, 'Farida', 'BG', 'Extra'],
      ['Janov', 'DC'])
