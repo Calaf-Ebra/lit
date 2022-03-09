@@ -5,7 +5,7 @@ st.subheader("Automation Solutions")
 a='cass'
 
 number = st.number_input('Number of Items')
-option = st.selectbox(
+options = st.selectbox(
      'Item Name?',
      ('Farida',a, 'Holland'))
 
