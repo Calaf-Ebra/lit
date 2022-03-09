@@ -6,10 +6,10 @@ a='cass'
 
 number = st.number_input('Number of Items')
 
-
-option = st.selectbox(
-     'product Name?',
-     ('BG',a, 'Farida', 'Holland'))
+options = st.multiselect(
+     'Product Name',
+     ['Holalnd',a , 'Farida', 'BG', 'Extra'],
+     ['Janov', 'DC'])
 
 if option==a:
      st.write(number*2)
