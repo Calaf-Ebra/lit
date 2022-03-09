@@ -8,7 +8,7 @@ number = st.number_input('Number of Items')
 
 
 option = st.selectbox(
-     'Waht is product name?',
+     'product Name?',
      ('BG',a, 'Farida', 'Holland'))
 
 if option==a:
