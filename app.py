@@ -5,14 +5,13 @@ st.subheader("Automation Solutions")
 a='cass'
 
 number = st.number_input('Number of Items')
+options = st.multiselect(
+     'What are your favorite colors',
+     ['Green', 'Yellow', 'Red', 'Blue'],
+     ['Yellow', 'Red'])
 
-option = st.multiselect(
-     'Product Name',
-     ['Holalnd',a, 'Farida', 'BG', 'Extra'],
-     ['Janov', 'DC'])
-
-if option==a:
+if options==a:
      st.write(number*2)
      
 
-st.write('You selected:', option)
+st.write('You selected:', options)
