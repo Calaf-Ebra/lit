@@ -4,12 +4,12 @@ st.subheader("Automation Solutions")
 
 a='cass'
 
-number = st.number_input('Insert a number')
+number = st.number_input('Number of Items')
 
 
 option = st.selectbox(
-     'How would you like to be contacted?',
-     ('hhh',a, 'Home phone', 'Mobile phone'))
+     'Waht is product name?',
+     ('BG',a, 'Farida', 'Holland'))
 
 if option==a:
      st.write(number*2)
