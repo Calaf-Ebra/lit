@@ -9,7 +9,7 @@ options = st.selectbox(
      'Item Name?',
      ('Farida',a, 'Holland'))
 
-st.write('You selected:', option)
+st.write('You selected:', options)
 if options==a:
      st.write(number*2)
      
