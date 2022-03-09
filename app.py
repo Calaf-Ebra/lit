@@ -8,7 +8,7 @@ number = st.number_input('Number of Items')
 
 options = st.multiselect(
      'Product Name',
-     ['Holalnd',a , 'Farida', 'BG', 'Extra'],
+     ['Holalnd',a, 'Farida', 'BG', 'Extra'],
      ['Janov', 'DC'])
 
 if option==a:
