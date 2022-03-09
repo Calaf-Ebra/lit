@@ -7,8 +7,7 @@ a='cass'
 number = st.number_input('Number of Items')
 options = st.multiselect(
      'What are your favorite colors',
-     ['Farida', 'BG', 'Janov'],
-     ['Extra', 'KF'])
+     ['Farida', 'BG', 'Janov'])
 
 if options==a:
      st.write(number*2)
