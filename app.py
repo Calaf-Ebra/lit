@@ -5,10 +5,10 @@ st.header("LWP")
 st.subheader("Automation Solutions")
 
 
-sheet_url = "https://docs.google.com/spreadsheets/d/1IXe_43DiORo36E9D7OgUiCQQD9JeYOtIl0HimoStOyA/edit#gid=0"
-url_1 = sheet_url.replace('/edit#gid=', '/export?format=csv&gid=')
-pd.read_csv(url_1)
-                          
+sheet_id = “/1IXe_43DiORo36E9D7OgUiCQQD9JeYOtIl0HimoStOyA/edit#gid=0”
+sheet_name = “Leave with Python”
+url = f”https://docs.google.com/spreadsheets/d/1IXe_43DiORo36E9D7OgUiCQQD9JeYOtIl0HimoStOyA/edit#gid=0"
+  pd.read_csv(url)
                           
 a='cass'
 
