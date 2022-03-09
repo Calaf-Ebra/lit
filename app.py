@@ -5,10 +5,11 @@ st.subheader("Automation Solutions")
 a='cass'
 
 number = st.number_input('Number of Items')
-options = st.multiselect(
-     'What are your favorite colors',
-     ['Farida',a, 'BG', 'Janov'])
+option = st.selectbox(
+     'Item Name?',
+     ('Farida',a, 'Holland))
 
+st.write('You selected:', option)
 if options==a:
      st.write(number*2)
      
